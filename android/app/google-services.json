@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261130355894",
+    "project_id": "tasknest-d79d0",
+    "storage_bucket": "tasknest-d79d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261130355894:android:a167707d284d92db559217",
+        "android_client_info": {
+          "package_name": "com.example.flutter_to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8tYtxwaiczmm2fPLWL7Jda3-B-EUuPSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
