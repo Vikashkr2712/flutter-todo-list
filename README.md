@@ -1,7 +1,9 @@
 "TaskNest"
-
+Project Admin Vikashkr2712
+contact info: Vikashkumargupta2712@gmail.com
 
 This repository contains a simple Flutter to-do app that utilizes Firebase for backend services. The app allows users to create, manage, and organize their to-do tasks seamlessly. Firebase is integrated for real-time data synchronization, authentication, and cloud storage.
+
 
 
 ### Features
